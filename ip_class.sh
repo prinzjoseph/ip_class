@@ -1,4 +1,5 @@
 #!/bin/bash
+#Author: prinzjoseph
 #Script to determine whether the User input is a valid IP or not.
 #Also determines the Class of the IP, whether it is a Private or Public IP.
 
