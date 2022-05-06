@@ -1,1 +1,9 @@
-# ip_class
+# IP Class
+A simple shell script to determine whether the entered string is a valid IP. If it's a valid IP the script will determine it's class also.
+
+Clone the repo:
+```
+git clone https://github.com/prinzjoseph/ip_class.git
+cd ip_class
+./ip_class.sh
+```
