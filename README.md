@@ -5,5 +5,6 @@ Clone the repo:
 ```
 git clone https://github.com/prinzjoseph/ip_class.git
 cd ip_class
+chmod +x ip_class.sh
 ./ip_class.sh
 ```
